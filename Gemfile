@@ -8,6 +8,7 @@ gem 'rails', '~> 5.2.3'
 # Use sqlite3 as the database for Active Record
 gem 'devise'
 gem 'twitter-bootstrap-rails'
+gem "bootstrap-sass", ">= 3.4.1"
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 # Use Puma as the app server
